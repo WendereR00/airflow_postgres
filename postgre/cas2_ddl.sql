@@ -1,0 +1,1 @@
+CREATE SCHEMA case2 AUTHORIZATION "admin";
